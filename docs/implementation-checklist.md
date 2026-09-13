@@ -7,7 +7,7 @@
 - [x] `docs/requirements.md` に要件定義を作成
 - [x] `docs/implementation-checklist.md`（本ファイル）を作成
 - [x] Gitリポジトリを初期化し、最初のコミットを作成
-- [ ] GitHubにリポジトリを作成しpush（任意）
+- [x] GitHubにリポジトリを作成しpush（任意）
 
 ## ステップ1: 本の手入力CRUD
 
